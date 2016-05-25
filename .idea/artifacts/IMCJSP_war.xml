@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IMCJSP:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ufg-inf-dw-2016-1.war">
+      <element id="artifact" artifact-name="IMCJSP:war exploded" />
+    </root>
+  </artifact>
+</component>
